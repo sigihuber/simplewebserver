@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:rc-bullseye
 
 LABEL maintainer="sigi.huber@me.com"
 
