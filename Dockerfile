@@ -1,6 +1,6 @@
 FROM python:3
 
-LABEL maintainer="shuber@parasito.de"
+LABEL maintainer="sigi.huber@me.com"
 
 CMD python -m http.server
 EXPOSE 8000
